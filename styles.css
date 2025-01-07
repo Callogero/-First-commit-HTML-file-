@@ -1,0 +1,21 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;;
+    background-color: #C1DADC;
+    color:  #145;
+    margin: 2em;
+  }
+
+     h1{font-size:3em; font-family: Georgia, 'Times New Roman', Times, serif;
+      color: darkred;
+  }
+
+        h2{font-family: Georgia, 'Times New Roman', Times, serif; color: rgba(54, 16, 16, 0.942);
+        }
+
+        .subtitles{
+            font-size: 1.5em;
+        }
+
+        #principal{
+            font-size: 2em; color: maroon;
+        }
